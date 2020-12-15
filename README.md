@@ -1,2 +1,2 @@
 # Risk-Factors-for-Cervical-Cancer
-Data analysis
+Small Data visualization of some risk factor for cervical cancer on Juyter Notebook
